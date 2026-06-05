@@ -1,1 +1,2 @@
 Hello, modifying third text, just now
+Hello, modifying the content inside third file.
